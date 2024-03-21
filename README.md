@@ -62,7 +62,7 @@ The top 3 most used colours were:
 
 ### Rank colors attempt #2:
 
-Processing ranking using inverted index took **5823 ms** and returned the same as in the navie ranking method.
+Processing ranking using inverted index took **5823 ms** and returned the same as in the naive ranking method.
 There is a significant performance improvement compared to the first method because the index is much quicker to go through than actual data records, which makes sense.
 
 
