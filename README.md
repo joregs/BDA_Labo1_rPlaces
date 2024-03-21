@@ -110,7 +110,7 @@ List(
 )
 ```
 ## Find the ratio of painting events at each coordinate which have the same color as just before the whitening
-## Compute the colors at a given time
+### Compute the colors at a given time
 
 The *colorsAtTime* method returned the following result:
 
